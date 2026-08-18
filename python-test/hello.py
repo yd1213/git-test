@@ -4,4 +4,3 @@ def test():
     return "这是 return"
 result = test()
 print(result)
-print("Git revert 测试")
